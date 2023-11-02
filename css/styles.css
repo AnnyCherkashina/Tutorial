@@ -131,14 +131,11 @@
 .main-title {
     color: var(--WHITE, #FFF);
     text-align: center;
-
-    /* Header 1 */
     font-family: Roboto;
     sans-serif;
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    /* 107.143% */
     letter-spacing: 1.12px;
 }
 
